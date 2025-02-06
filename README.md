@@ -1,0 +1,1 @@
+Run npm install in the root directory and in the api folder to reinstall all dependecies.
